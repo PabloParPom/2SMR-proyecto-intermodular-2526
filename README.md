@@ -62,8 +62,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
 
 * **04: Sistema Domótico Básico con Raspberry Pi** - 
-    - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://)
+    - [Anteproyecto](https://github.com/IsaiasIzquier2/conversayayo/blob/main/ANTEPROYECTO-GRUPO-4.pdf)
+    - [Repositorio del proyecto](https://github.com/IsaiasIzquier2/conversayayo)
     - [Video final](https://)
  
 * **05: MINI-DATACENTER EN EL AULA** - 
